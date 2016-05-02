@@ -20,4 +20,4 @@ Finally Run..
 
 	$ rabbithole
 
-RabbitHole will show up in your file browser, drag the icon to you dashboard to place it, and there you are! Now start tagging some Developers! ;)
+RabbitHole will show up in your file browser, drag the icon to your dashboard. All done! Now, start tagging some linux Developers! ;)
