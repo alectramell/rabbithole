@@ -3,3 +3,6 @@
 
 + helloworld
 ? a simple helloworld script.
+
++ calc
+? a simple 2 variable calculator script.
