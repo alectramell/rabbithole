@@ -1,8 +1,12 @@
 # RabbitHole Scripts..
-# + available, - removed, ? about
+# + available, - removed, ? about, * debian url
 
 + helloworld
 ? a simple helloworld script.
 
 + calc
 ? a simple 2 variable calculator script.
+
++ google-search
+? a simple google search script.
+* https://github.com/alectramell/rabbithole/raw/master/google-search-1.0.deb
