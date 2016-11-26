@@ -1,5 +1,0 @@
-# RabbitHole Packages..
-# + available, - removed, ? about
-
-+ google-search
-? an app that lets you search google quickly from terminal.
